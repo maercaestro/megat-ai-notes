@@ -1,5 +1,7 @@
 # MEGAT AI Math Notes
 
+![MEGAT Logo](MEGATLogo.png)
+
 This is a Streamlit application that allows users to draw math equations on a canvas, captures the canvas image, sends it to OpenAI's GPT-4o model for processing, and displays the result.
 
 ## Features
